@@ -51,9 +51,9 @@ Defualt value: `30`
   Explains how to use the curl HTTP client utility
 * xgettext(1) manpage  
   Explains how to use the `xgettext` command to extract translatable strings from the source code file.
-* msginit(1) 的 manpage 使用手冊頁面  
+* msginit(1) manpage  
   Explains how to use the `msginit` command to create a new PO message catalog file from the POT template file.
-* msgfmt(1) 的 manpage 使用手冊頁面  
+* msgfmt(1) manpage  
   Explains how to use the `msgfmt` command to compile message catalog files into the binary format.
-* notify-send(1) 的 manpage 使用手冊頁面  
+* notify-send(1) manpage  
   Explains how to use the `notify-send` command to send desktop notifications.
