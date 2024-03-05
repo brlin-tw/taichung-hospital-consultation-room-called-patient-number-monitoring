@@ -2,6 +2,8 @@
 
 Fetch and present the current called patient number of the specified [Taichung Hospital](https://www.taic.mohw.gov.tw/) consultation room for the convenience to handle the timing for the patient to wait at the spot.
 
+<https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring>
+
 ## Notice
 
 Before using this application please note that:

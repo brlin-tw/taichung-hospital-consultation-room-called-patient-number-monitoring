@@ -2,6 +2,8 @@
 
 抓取並透過桌面通知呈現臺中醫院診間的當前叫號，方便掌握病患現場等候時機
 
+<https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring>
+
 ## 注意事項
 
 在使用本應用軟體前請注意：
