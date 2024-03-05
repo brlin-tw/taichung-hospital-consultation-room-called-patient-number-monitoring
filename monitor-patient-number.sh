@@ -101,14 +101,14 @@ notify_id=0
 while true; do
     check_interval_variance="$(( RANDOM % CHECK_INTERVAL_VARIANCE_MAX + 1 ))"
     check_interval="$(( check_interval_base + check_interval_variance ))"
-    
+
     curl_opts=(
         --location
         --silent
         --show-error
-        
+
         --user-agent 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0'
-        
+
         --max-time "${CHECK_TIMEOUT}"
     )
     if ! check_page="$(
@@ -126,7 +126,7 @@ while true; do
                 "$(gettext 'Error: Unable to generate the error message from the format string.\n')" \
                 1>&2
         fi
-        
+
         notify_send_opts=(
             --app-name="${application_name}"
             --urgency=critical
@@ -141,7 +141,7 @@ while true; do
         fi
         exit 2
     fi
-    
+
     if ! regroom_now_see_raw="$(
         hq \
             '{ elements: .regroom-now-see | [ {text: @text} ] }' \
@@ -155,7 +155,7 @@ while true; do
                 "$(gettext 'Error: Unable to generate the error message from the format string.\n')" \
                 1>&2
         fi
-        
+
         notify_send_opts=(
             --app-name="${application_name}"
             --urgency=critical
@@ -170,7 +170,7 @@ while true; do
         fi
         exit 2
     fi
-    
+
     jq_opts=(
         --raw-output
     )
@@ -188,7 +188,7 @@ while true; do
                 "$(gettext 'Error: Unable to generate the error message from the format string.\n')" \
                 1>&2
         fi
-        
+
         notify_send_opts=(
             --app-name="${application_name}"
             --urgency=critical
@@ -214,7 +214,7 @@ while true; do
                 "$(gettext 'Error: Unable to generate the error message from the format string.\n')" \
                 1>&2
         fi
-        
+
         notify_send_opts=(
             --app-name "${application_name}"
             --urgency=critical
@@ -229,9 +229,9 @@ while true; do
         fi
         exit 2
     fi
-    
+
     current_called_number="${regroom_now_see_text_raw%號}"
-    
+
     notify_send_opts=(
         --app-name="${application_name}"
         --urgency=normal
@@ -241,7 +241,7 @@ while true; do
     if test "${notify_id}" -ne 0; then
         notify_send_opts+=(--replace-id="${notify_id}")
     fi
-    
+
     message="$(
         printf \
             "$(gettext 'Currently called patient number: %s')" \
@@ -258,6 +258,6 @@ while true; do
             1>&2
         exit 2
     fi
-    
+
     sleep "${check_interval}"
 done

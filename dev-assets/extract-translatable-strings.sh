@@ -99,7 +99,7 @@ source_files=()
 for line in "${potfiles_lines[@]}"; do
     regex_comment_line='^#.*$'
     regex_blank_line='^[[:space:]]*$'
-    
+
     if [[ "${line}" =~ ${regex_comment_line} ]] \
         || [[ "${line}" =~ ${regex_blank_line} ]]; then
         continue

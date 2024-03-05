@@ -92,7 +92,7 @@ languages=()
 for line in "${linguas_lines[@]}"; do
     regex_comment_line='^#.*$'
     regex_blank_line='^[[:space:]]*$'
-    
+
     if [[ "${line}" =~ ${regex_comment_line} ]] \
         || [[ "${line}" =~ ${regex_blank_line} ]]; then
         continue
@@ -123,7 +123,7 @@ for language in "${languages[@]}"; do
     printf \
         'Info: Importing translatable strings from the template file to the "%s" language message catalog...\n' \
         "${language}"
-    
+
     message_catalog_file="${po_dir}/${language}.po"
     msgmerge_opts=(
         --update

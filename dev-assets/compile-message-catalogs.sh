@@ -92,7 +92,7 @@ languages=()
 for line in "${linguas_lines[@]}"; do
     regex_comment_line='^#.*$'
     regex_blank_line='^[[:space:]]*$'
-    
+
     if [[ "${line}" =~ ${regex_comment_line} ]] \
         || [[ "${line}" =~ ${regex_blank_line} ]]; then
         continue
@@ -123,7 +123,7 @@ for language in "${languages[@]}"; do
     printf \
         'Info: Compiling message catalog file for the "%s" language...\n' \
         "${language}"
-    
+
     lc_messages_dir="${locale_dir}/${language}/LC_MESSAGES"
     if ! test -e "${lc_messages_dir}"; then
         mkdir_opts=(
@@ -138,7 +138,7 @@ for language in "${languages[@]}"; do
             exit 2
         fi
     fi
-    
+
     compiled_message_catalog_file="${lc_messages_dir}/${application_id}.mo"
 
     message_catalog_file="${po_dir}/${language}.po"
