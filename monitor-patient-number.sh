@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 # Monitor and report the change of the current calling patient number
 #
+# Copyright 2024 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+#
 # Not enforceable when Gettext I18N is integrated
 # shellcheck disable=SC2059
 CHECK_INTERVAL_BASE="${CHECK_INTERVAL_BASE:-15}"

@@ -1,4 +1,5 @@
 # List of source files containing translatable strings.
-# Copyright (C) 2024 林博仁(Buo-ren, Lin)
-
+#
+# Copyright 2024 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
 monitor-patient-number.sh

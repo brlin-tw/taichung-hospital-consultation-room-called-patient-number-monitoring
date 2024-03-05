@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 # Initialize Gettext message catalog for a new language from the
 # template
+#
+# Copyright 2024 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
 
 printf \
     'Info: Setting defensive interpreter behaviors...\n'
