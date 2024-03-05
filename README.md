@@ -6,7 +6,7 @@ Fetch and present the current called patient number of the specified [Taichung H
 
 Before using this application please note that:
 
-* This solution only fetches the called patient number information, the patient should adhere the hospital consultation room's check-in instructions to avoid losing the qualification of the specialist consultation.
+* This solution only fetches the called patient number information, the patient should adhere to the hospital consultation room's check-in instructions to avoid losing the qualification of the specialist consultation.
 * Please properly set this utility's polling behavior settings to avoid overloading the hospital's IT system.
 * This is NOT an official Taichung Hospital product, the author CAN NOT and WILL NOT provide compensation of any damages relating to the usage of this application.
 
