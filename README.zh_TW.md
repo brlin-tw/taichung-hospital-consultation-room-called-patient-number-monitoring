@@ -5,6 +5,8 @@
 <https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring>  
 [![專案 `main` 分支的 GitLab CI 流水線狀態標誌](https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/badges/main/pipeline.svg?ignore_skipped=true "點擊本標誌以查看 GitLab CI 流水線的詳細狀態")](https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/pipelines) [![GitHub Actions 的作業流程(workflow)狀態標誌](https://github.com/brlin-tw/taichung-hospital-consultation-room-called-patient-number-monitoring/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions 的作業流程(workflow)狀態")](https://github.com/brlin-tw/taichung-hospital-consultation-room-called-patient-number-monitoring/actions/workflows/check-potential-problems.yml) [![pre-commit 已引入標誌](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 工具來檢查潛在問題")](https://pre-commit.com/) [![REUSE 規範合規標誌](https://api.reuse.software/badge/gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring "本專案遵循 REUSE 規範以減少軟體授權成本")](https://api.reuse.software/info/gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring)
 
+[English](README.md) | 台灣中文
+
 ## 注意事項
 
 在使用本應用軟體前請注意：
