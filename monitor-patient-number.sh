@@ -31,6 +31,7 @@ required_commands=(
     jq
     notify-send
     realpath
+    sleep
 )
 required_command_check_failed=false
 for command in "${required_commands[@]}"; do
