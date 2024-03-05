@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR 林博仁 <buo.ren.lin+legal@gmail.com>
+# This file is distributed under the same license as the taic-patient-callno-monitoring package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: taic-patient-callno-monitoring main\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/brlin/taic-patient-callno-"
+"monitoring/-/issues/new\n"
+"POT-Creation-Date: 2024-03-05 02:19+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: monitor-patient-number.sh:78 monitor-patient-number.sh:81
+#: monitor-patient-number.sh:86
+msgid "Taichung Hospital currently called patient number monitoring"
+msgstr ""
+
+#: monitor-patient-number.sh:234 monitor-patient-number.sh:242
+#: monitor-patient-number.sh:243
+msgid "Patient call number check"
+msgstr ""
+
+#: monitor-patient-number.sh:112 monitor-patient-number.sh:115
+#: monitor-patient-number.sh:144 monitor-patient-number.sh:177
+#: monitor-patient-number.sh:203 monitor-patient-number.sh:116
+#: monitor-patient-number.sh:145 monitor-patient-number.sh:178
+#: monitor-patient-number.sh:204
+msgid "Error: Unable to generate the error message from the format string.\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:125 monitor-patient-number.sh:154
+#: monitor-patient-number.sh:187 monitor-patient-number.sh:213
+#: monitor-patient-number.sh:126 monitor-patient-number.sh:155
+#: monitor-patient-number.sh:188 monitor-patient-number.sh:214
+msgid "Patient call number check failed"
+msgstr ""
+
+#: monitor-patient-number.sh:128 monitor-patient-number.sh:157
+#: monitor-patient-number.sh:190 monitor-patient-number.sh:216
+#: monitor-patient-number.sh:246 monitor-patient-number.sh:129
+#: monitor-patient-number.sh:158 monitor-patient-number.sh:191
+#: monitor-patient-number.sh:217 monitor-patient-number.sh:247
+msgid "Error: Unable to send desktop notification.\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:141 monitor-patient-number.sh:142
+msgid "Error: Unable to parse the check page.\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:174
+msgid ""
+"Error: Unable to parse the regroom now see HTML element parse results.\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:200 monitor-patient-number.sh:201
+msgid ""
+"Error: Invalid regroom_now_see_text_raw parse result detected, please check."
+"\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:236 monitor-patient-number.sh:237
+msgid "Currently called patient number: %s"
+msgstr ""
+
+#: monitor-patient-number.sh:175
+msgid ""
+"Error: Unable to parse the regroom_now_see HTML element parse results.\\n"
+msgstr ""
