@@ -65,7 +65,7 @@ if test -v BASH_SOURCE; then
     }
 fi
 
-application_id='taic-patient-callno-monitoring'
+application_id='taichung-hospital-consultation-room-called-patient-number-monitoring'
 project_dir="${script_dir%/*}"
 
 printf \

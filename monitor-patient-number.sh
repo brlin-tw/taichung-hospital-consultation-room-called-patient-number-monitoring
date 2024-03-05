@@ -74,7 +74,7 @@ if test -v BASH_SOURCE; then
     }
 fi
 
-application_id='taic-patient-callno-monitoring'
+application_id='taichung-hospital-consultation-room-called-patient-number-monitoring'
 
 TEXTDOMAIN="${application_id}"
 TEXTDOMAINDIR="${script_dir}/share/locale"

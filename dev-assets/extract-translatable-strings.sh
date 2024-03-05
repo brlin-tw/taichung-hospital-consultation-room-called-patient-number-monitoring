@@ -67,7 +67,7 @@ if test -v BASH_SOURCE; then
     }
 fi
 
-application_id='taic-patient-callno-monitoring'
+application_id='taichung-hospital-consultation-room-called-patient-number-monitoring'
 project_dir="${script_dir%/*}"
 
 po_dir="${project_dir}/po"
@@ -124,7 +124,7 @@ xgettext_opts=(
     --default-domain="${application_id}"
     --package-name="${application_id}"
     --package-version=main
-    --msgid-bugs-address="https://gitlab.com/brlin/taic-patient-callno-monitoring/-/issues/new"
+    --msgid-bugs-address="https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/issues/new"
     --copyright-holder='林博仁 <buo.ren.lin+legal@gmail.com>'
     --output="${template_file}"
     --from-code=UTF-8

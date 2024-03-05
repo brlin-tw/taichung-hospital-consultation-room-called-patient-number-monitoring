@@ -79,7 +79,7 @@ fi
 language="${script_args[0]}"
 
 po_dir="${project_dir}/po"
-application_id='taic-patient-callno-monitoring'
+application_id='taichung-hospital-consultation-room-called-patient-number-monitoring'
 pot_template_file="${po_dir}/${application_id}.pot"
 
 printf \

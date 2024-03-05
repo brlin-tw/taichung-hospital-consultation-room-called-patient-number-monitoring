@@ -1,4 +1,4 @@
-# Chinese translations for taic-patient-callno-monitoring package.
+# Chinese translations for taichung-hospital-consultation-room-called-patient-number-monitoring package.
 #
 # Copyright 2024 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
@@ -7,9 +7,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: taic-patient-callno-monitoring main\n"
-"Report-Msgid-Bugs-To: https://gitlab.com/brlin/taic-patient-callno-"
-"monitoring/-/issues/new\n"
+"Project-Id-Version: taichung-hospital-consultation-room-called-patient-number-monitoring main\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/issues/new\n"
 "POT-Creation-Date: 2024-03-05 02:19+0800\n"
 "PO-Revision-Date: 2024-03-04 23:31+0800\n"
 "Last-Translator: 林博仁 <Buo.Ren.Lin@gmail.com>\n"

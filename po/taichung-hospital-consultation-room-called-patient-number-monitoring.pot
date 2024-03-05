@@ -8,9 +8,8 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: taic-patient-callno-monitoring main\n"
-"Report-Msgid-Bugs-To: https://gitlab.com/brlin/taic-patient-callno-"
-"monitoring/-/issues/new\n"
+"Project-Id-Version: taichung-hospital-consultation-room-called-patient-number-monitoring main\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/issues/new\n"
 "POT-Creation-Date: 2024-03-05 02:19+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
