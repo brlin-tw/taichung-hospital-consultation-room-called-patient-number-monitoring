@@ -60,3 +60,9 @@
   說明如何使用 `msgfmt` 命令將訊息目錄檔案編譯為二進位格式
 * notify-send(1) 的 manpage 使用手冊頁面  
   說明如何使用 `notify-send` 命令發送<ruby>桌面通知<rp>(</rp><rt>desktop notification</rt><rp>)</rp></ruby>
+
+## 授權條款
+
+除了另外註明之內容外（個別檔案標頭、[REUSE DEP5 檔案](.reuse/dep5)），本產品以 [Creative Commons Attribution-ShareAlike 授權條款第 4.0 國際版](https://creativecommons.org/licenses/by-sa/4.0/)或您所偏好之更近期版本釋出供大眾於_授權範圍_內自由使用。
+
+本作品遵循 [REUSE 規範](https://reuse.software/spec/)，參閱 [REUSE - Make licensing easy for everyone](https://reuse.software/) 網站以了解關於本產品授權的相關資訊。
