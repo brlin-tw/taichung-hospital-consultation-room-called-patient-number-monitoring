@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: taichung-hospital-consultation-room-called-patient-number-monitoring main\n"
 "Report-Msgid-Bugs-To: https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/issues/new\n"
-"POT-Creation-Date: 2024-03-05 02:19+0800\n"
+"POT-Creation-Date: 2024-03-06 02:56+0800\n"
 "PO-Revision-Date: 2024-03-04 23:31+0800\n"
 "Last-Translator: 林博仁 <Buo.Ren.Lin@gmail.com>\n"
 "Language-Team: Chinese (traditional) <zh-l10n@lists.slat.org>\n"
@@ -20,27 +20,14 @@ msgstr ""
 #
 # File: monitor-patient-number.sh, line: 78
 # File: monitor-patient-number.sh, line: 81
-# File: monitor-patient-number.sh, line: 78
-# File: monitor-patient-number.sh, line: 81
-# File: monitor-patient-number.sh, line: 78
-# File: monitor-patient-number.sh, line: 81
-# File: monitor-patient-number.sh, line: 86
-# File: monitor-patient-number.sh, line: 78
-# File: monitor-patient-number.sh, line: 81
 # File: monitor-patient-number.sh, line: 86
 msgid "Taichung Hospital currently called patient number monitoring"
 msgstr "臺中醫院診間叫號監控"
 #
 # File: monitor-patient-number.sh, line: 234
 # File: monitor-patient-number.sh, line: 242
-# File: monitor-patient-number.sh, line: 234
-# File: monitor-patient-number.sh, line: 242
-# File: monitor-patient-number.sh, line: 234
-# File: monitor-patient-number.sh, line: 242
 # File: monitor-patient-number.sh, line: 243
-# File: monitor-patient-number.sh, line: 234
-# File: monitor-patient-number.sh, line: 242
-# File: monitor-patient-number.sh, line: 243
+# File: monitor-patient-number.sh, line: 256
 msgid "Patient call number check"
 msgstr "病患叫號檢查"
 #
@@ -49,29 +36,14 @@ msgstr "病患叫號檢查"
 # File: monitor-patient-number.sh, line: 144
 # File: monitor-patient-number.sh, line: 177
 # File: monitor-patient-number.sh, line: 203
-# File: monitor-patient-number.sh, line: 112
-# File: monitor-patient-number.sh, line: 115
-# File: monitor-patient-number.sh, line: 144
-# File: monitor-patient-number.sh, line: 177
-# File: monitor-patient-number.sh, line: 203
-# File: monitor-patient-number.sh, line: 112
-# File: monitor-patient-number.sh, line: 115
-# File: monitor-patient-number.sh, line: 144
-# File: monitor-patient-number.sh, line: 177
-# File: monitor-patient-number.sh, line: 203
 # File: monitor-patient-number.sh, line: 116
 # File: monitor-patient-number.sh, line: 145
 # File: monitor-patient-number.sh, line: 178
 # File: monitor-patient-number.sh, line: 204
-# File: monitor-patient-number.sh, line: 112
-# File: monitor-patient-number.sh, line: 115
-# File: monitor-patient-number.sh, line: 144
-# File: monitor-patient-number.sh, line: 177
-# File: monitor-patient-number.sh, line: 203
-# File: monitor-patient-number.sh, line: 116
-# File: monitor-patient-number.sh, line: 145
-# File: monitor-patient-number.sh, line: 178
-# File: monitor-patient-number.sh, line: 204
+# File: monitor-patient-number.sh, line: 129
+# File: monitor-patient-number.sh, line: 158
+# File: monitor-patient-number.sh, line: 191
+# File: monitor-patient-number.sh, line: 217
 msgid "Error: Unable to generate the error message from the format string.\\n"
 msgstr "錯誤：無法自格式指定字串產生錯誤訊息。\\n"
 #
@@ -79,26 +51,14 @@ msgstr "錯誤：無法自格式指定字串產生錯誤訊息。\\n"
 # File: monitor-patient-number.sh, line: 154
 # File: monitor-patient-number.sh, line: 187
 # File: monitor-patient-number.sh, line: 213
-# File: monitor-patient-number.sh, line: 125
-# File: monitor-patient-number.sh, line: 154
-# File: monitor-patient-number.sh, line: 187
-# File: monitor-patient-number.sh, line: 213
-# File: monitor-patient-number.sh, line: 125
-# File: monitor-patient-number.sh, line: 154
-# File: monitor-patient-number.sh, line: 187
-# File: monitor-patient-number.sh, line: 213
 # File: monitor-patient-number.sh, line: 126
 # File: monitor-patient-number.sh, line: 155
 # File: monitor-patient-number.sh, line: 188
 # File: monitor-patient-number.sh, line: 214
-# File: monitor-patient-number.sh, line: 125
-# File: monitor-patient-number.sh, line: 154
-# File: monitor-patient-number.sh, line: 187
-# File: monitor-patient-number.sh, line: 213
-# File: monitor-patient-number.sh, line: 126
-# File: monitor-patient-number.sh, line: 155
-# File: monitor-patient-number.sh, line: 188
-# File: monitor-patient-number.sh, line: 214
+# File: monitor-patient-number.sh, line: 139
+# File: monitor-patient-number.sh, line: 168
+# File: monitor-patient-number.sh, line: 201
+# File: monitor-patient-number.sh, line: 227
 msgid "Patient call number check failed"
 msgstr "診間叫號檢查失敗"
 #
@@ -107,75 +67,50 @@ msgstr "診間叫號檢查失敗"
 # File: monitor-patient-number.sh, line: 190
 # File: monitor-patient-number.sh, line: 216
 # File: monitor-patient-number.sh, line: 246
-# File: monitor-patient-number.sh, line: 128
-# File: monitor-patient-number.sh, line: 157
-# File: monitor-patient-number.sh, line: 190
-# File: monitor-patient-number.sh, line: 216
-# File: monitor-patient-number.sh, line: 246
-# File: monitor-patient-number.sh, line: 128
-# File: monitor-patient-number.sh, line: 157
-# File: monitor-patient-number.sh, line: 190
-# File: monitor-patient-number.sh, line: 216
-# File: monitor-patient-number.sh, line: 246
 # File: monitor-patient-number.sh, line: 129
 # File: monitor-patient-number.sh, line: 158
 # File: monitor-patient-number.sh, line: 191
 # File: monitor-patient-number.sh, line: 217
 # File: monitor-patient-number.sh, line: 247
-# File: monitor-patient-number.sh, line: 128
-# File: monitor-patient-number.sh, line: 157
-# File: monitor-patient-number.sh, line: 190
-# File: monitor-patient-number.sh, line: 216
-# File: monitor-patient-number.sh, line: 246
-# File: monitor-patient-number.sh, line: 129
-# File: monitor-patient-number.sh, line: 158
-# File: monitor-patient-number.sh, line: 191
-# File: monitor-patient-number.sh, line: 217
-# File: monitor-patient-number.sh, line: 247
+# File: monitor-patient-number.sh, line: 142
+# File: monitor-patient-number.sh, line: 171
+# File: monitor-patient-number.sh, line: 204
+# File: monitor-patient-number.sh, line: 230
+# File: monitor-patient-number.sh, line: 260
 msgid "Error: Unable to send desktop notification.\\n"
 msgstr "錯誤：無法傳送桌面通知。\\n"
 #
 # File: monitor-patient-number.sh, line: 141
-# File: monitor-patient-number.sh, line: 141
-# File: monitor-patient-number.sh, line: 141
 # File: monitor-patient-number.sh, line: 142
-# File: monitor-patient-number.sh, line: 141
-# File: monitor-patient-number.sh, line: 142
+# File: monitor-patient-number.sh, line: 155
 msgid "Error: Unable to parse the check page.\\n"
 msgstr "錯誤：無法分析叫號頁面。\\n"
 #
-# File: monitor-patient-number.sh, line: 174
-# File: monitor-patient-number.sh, line: 174
-# File: monitor-patient-number.sh, line: 174
 # File: monitor-patient-number.sh, line: 174
 msgid ""
 "Error: Unable to parse the regroom now see HTML element parse results.\\n"
 msgstr "錯誤：無法分析 regroom now see HTML 元素分析結果。\\n"
 #
 # File: monitor-patient-number.sh, line: 200
-# File: monitor-patient-number.sh, line: 200
-# File: monitor-patient-number.sh, line: 200
 # File: monitor-patient-number.sh, line: 201
-# File: monitor-patient-number.sh, line: 200
-# File: monitor-patient-number.sh, line: 201
+# File: monitor-patient-number.sh, line: 214
 msgid ""
 "Error: Invalid regroom_now_see_text_raw parse result detected, please check."
 "\\n"
 msgstr "錯誤：偵測到無效的 regroom_now_see_text_raw 分析結果，請進行檢查。\\n"
 #
 # File: monitor-patient-number.sh, line: 236
-# File: monitor-patient-number.sh, line: 236
-# File: monitor-patient-number.sh, line: 236
 # File: monitor-patient-number.sh, line: 237
-# File: monitor-patient-number.sh, line: 236
-# File: monitor-patient-number.sh, line: 237
+# File: monitor-patient-number.sh, line: 250
 msgid "Currently called patient number: %s"
 msgstr "當前的叫號編號：%s"
 #
-# File: monitor-patient-number.sh, line: 174
-# File: monitor-patient-number.sh, line: 174
 # File: monitor-patient-number.sh, line: 175
-# File: monitor-patient-number.sh, line: 175
+# File: monitor-patient-number.sh, line: 188
 msgid ""
 "Error: Unable to parse the regroom_now_see HTML element parse results.\\n"
 msgstr "錯誤：無法分析 regroom_now_see HTML 元素分析結果。\\n"
+#
+# File: monitor-patient-number.sh, line: 92
+msgid "Taichung Hospital consultation room called patient number monitoring"
+msgstr "臺中醫院診間叫號監控"

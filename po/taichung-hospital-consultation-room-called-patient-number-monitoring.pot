@@ -19,59 +19,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: monitor-patient-number.sh:78 monitor-patient-number.sh:81
-#: monitor-patient-number.sh:86
 msgid "Taichung Hospital currently called patient number monitoring"
 msgstr ""
 
-#: monitor-patient-number.sh:234 monitor-patient-number.sh:242
-#: monitor-patient-number.sh:243
+#: monitor-patient-number.sh:256
 msgid "Patient call number check"
 msgstr ""
 
-#: monitor-patient-number.sh:112 monitor-patient-number.sh:115
-#: monitor-patient-number.sh:144 monitor-patient-number.sh:177
-#: monitor-patient-number.sh:203 monitor-patient-number.sh:116
-#: monitor-patient-number.sh:145 monitor-patient-number.sh:178
-#: monitor-patient-number.sh:204
+#: monitor-patient-number.sh:129 monitor-patient-number.sh:158
+#: monitor-patient-number.sh:191 monitor-patient-number.sh:217
 msgid "Error: Unable to generate the error message from the format string.\\n"
 msgstr ""
 
-#: monitor-patient-number.sh:125 monitor-patient-number.sh:154
-#: monitor-patient-number.sh:187 monitor-patient-number.sh:213
-#: monitor-patient-number.sh:126 monitor-patient-number.sh:155
-#: monitor-patient-number.sh:188 monitor-patient-number.sh:214
+#: monitor-patient-number.sh:139 monitor-patient-number.sh:168
+#: monitor-patient-number.sh:201 monitor-patient-number.sh:227
 msgid "Patient call number check failed"
 msgstr ""
 
-#: monitor-patient-number.sh:128 monitor-patient-number.sh:157
-#: monitor-patient-number.sh:190 monitor-patient-number.sh:216
-#: monitor-patient-number.sh:246 monitor-patient-number.sh:129
-#: monitor-patient-number.sh:158 monitor-patient-number.sh:191
-#: monitor-patient-number.sh:217 monitor-patient-number.sh:247
+#: monitor-patient-number.sh:142 monitor-patient-number.sh:171
+#: monitor-patient-number.sh:204 monitor-patient-number.sh:230
+#: monitor-patient-number.sh:260
 msgid "Error: Unable to send desktop notification.\\n"
 msgstr ""
 
-#: monitor-patient-number.sh:141 monitor-patient-number.sh:142
+#: monitor-patient-number.sh:155
 msgid "Error: Unable to parse the check page.\\n"
 msgstr ""
 
-#: monitor-patient-number.sh:174
 msgid ""
 "Error: Unable to parse the regroom now see HTML element parse results.\\n"
 msgstr ""
 
-#: monitor-patient-number.sh:200 monitor-patient-number.sh:201
+#: monitor-patient-number.sh:214
 msgid ""
 "Error: Invalid regroom_now_see_text_raw parse result detected, please check."
 "\\n"
 msgstr ""
 
-#: monitor-patient-number.sh:236 monitor-patient-number.sh:237
+#: monitor-patient-number.sh:250
 msgid "Currently called patient number: %s"
 msgstr ""
 
-#: monitor-patient-number.sh:175
+#: monitor-patient-number.sh:188
 msgid ""
 "Error: Unable to parse the regroom_now_see HTML element parse results.\\n"
+msgstr ""
+
+#: monitor-patient-number.sh:92
+msgid "Taichung Hospital consultation room called patient number monitoring"
 msgstr ""

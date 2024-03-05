@@ -89,7 +89,7 @@ if ! . gettext.sh; then
     exit 1
 fi
 
-application_name="$(gettext 'Taichung Hospital currently called patient number monitoring')"
+application_name="$(gettext 'Taichung Hospital consultation room called patient number monitoring')"
 
 if test "${CHECK_URL}" == unset; then
     printf \
