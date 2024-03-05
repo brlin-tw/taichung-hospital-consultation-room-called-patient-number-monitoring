@@ -2,7 +2,8 @@
 
 Fetch and present the current called patient number of the specified [Taichung Hospital](https://www.taic.mohw.gov.tw/) consultation room for the convenience to handle the timing for the patient to wait at the spot.
 
-<https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring>
+<https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring>  
+[![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/taichung-hospital-consultation-room-called-patient-number-monitoring/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/taichung-hospital-consultation-room-called-patient-number-monitoring/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/taichung-hospital-consultation-room-called-patient-number-monitoring)
 
 ## Notice
 
