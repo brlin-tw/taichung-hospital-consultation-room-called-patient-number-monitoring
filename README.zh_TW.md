@@ -64,6 +64,10 @@
   說明如何使用 `msgfmt` 命令將訊息目錄檔案編譯為二進位格式
 * notify-send(1) 的 manpage 使用手冊頁面  
   說明如何使用 `notify-send` 命令發送<ruby>桌面通知<rp>(</rp><rt>desktop notification</rt><rp>)</rp></ruby>
+* [Basic Design - Desktop Notifications Specification](https://specifications.freedesktop.org/notification-spec/notification-spec-latest.html#basic-design)  
+  說明 Linux 桌面環境中桌面通知的基本概念
+* [Files - Fields - Machine-readable debian/copyright file](https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#files-field)  
+  說明如何指定 REUSE DEP5 檔案 Files 欄位的檔案吻合式樣
 
 ## 授權條款
 

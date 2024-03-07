@@ -64,6 +64,10 @@ Defualt value: `30`
   Explains how to use the `msgfmt` command to compile message catalog files into the binary format.
 * notify-send(1) manpage  
   Explains how to use the `notify-send` command to send desktop notifications.
+* [Basic Design - Desktop Notifications Specification](https://specifications.freedesktop.org/notification-spec/notification-spec-latest.html#basic-design)  
+  Explains the basics of the Desktop Notifications in Linux desktop environments.
+* [Files - Fields - Machine-readable debian/copyright file](https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#files-field)  
+  Explains how to specify the file matching patterns in the Files fields of the REUSE DEP5 file.
 
 ## Licensing
 
