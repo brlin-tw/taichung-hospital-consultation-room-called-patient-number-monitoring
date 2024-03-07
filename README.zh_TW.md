@@ -17,6 +17,26 @@
 * 請合理設定本工具的輪詢行為，避免讓醫院方資訊系統過載
 * 這**不是**臺中醫院的官方產品，產品作者**無法**且**不會**對任何因本產品的使用所衍生的任何損失進行賠償
 
+## 前備條件
+
+本應用軟體需要下列軟體的存在以使其能夠正常運行：
+
+* 一個運行相容於 [Desktop Notifications Specification](https://specifications.freedesktop.org/notification-spec/notification-spec-latest.html) 通知服務器（內建或是外部啟動）的桌面環境
+* [libnotify](https://gitlab.gnome.org/GNOME/libnotify)  
+  用於提供 `notify-send` 命令
+* [curl](https://curl.se/)  
+  用於發送 HTTP 請求至醫院的診間叫號網站
+* [orf/html-query: jq, but for HTML](https://github.com/orf/html-query)  
+  用於解析醫院診間叫號網頁並將其結果轉換為 JSON 資料
+* [jqlang/jq: Command-line JSON processor](https://github.com/jqlang/jq)  
+  用於解析 html-query 傳回的 JSON 資料並轉換為簡單字串
+* [gettext](https://www.gnu.org/software/gettext/)  
+  用於軟體的國際化(I18N)支援
+* [Coreutils - GNU core utilities](https://www.gnu.org/software/coreutils/)  
+  用於提供 `realpath` 與 `sleep` 命令
+* [Bash](https://www.gnu.org/software/bash/)  
+  用於運行監控程序
+
 ## 可以變更監控程序行為的環境變數
 
 以下環境變數可以根據使用者需求變更監控程序的行為：

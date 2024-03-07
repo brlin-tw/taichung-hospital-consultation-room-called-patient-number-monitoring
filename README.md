@@ -17,6 +17,26 @@ Before using this application please note that:
 * Please properly set this utility's polling behavior settings to avoid overloading the hospital's IT system.
 * This is NOT an official Taichung Hospital product, the author CAN NOT and WILL NOT provide compensation of any damages relating to the usage of this application.
 
+## Prerequisites
+
+This application requires the following software to be available in order to work:
+
+* A desktop environment that has a running [Desktop Notifications Specification](https://specifications.freedesktop.org/notification-spec/notification-spec-latest.html) notification server implementation(either implemented internally or an external one)
+* [libnotify](https://gitlab.gnome.org/GNOME/libnotify)  
+  For the `notify-send` command.
+* [curl](https://curl.se/)  
+  For sending HTTP requests to the hospital's consultation room called patient number website.
+* [orf/html-query: jq, but for HTML](https://github.com/orf/html-query)  
+  For parsing the hospital's consultation room called patient number webpage and convert the result into JSON data.
+* [jqlang/jq: Command-line JSON processor](https://github.com/jqlang/jq)  
+  For parsing the JSON data from html-query into simple string.
+* [gettext](https://www.gnu.org/software/gettext/)  
+  For the software internationalization(I18N) support.
+* [Coreutils - GNU core utilities](https://www.gnu.org/software/coreutils/)  
+  For the `realpath` and the `sleep` command.
+* [Bash](https://www.gnu.org/software/bash/)  
+  For running the monitoring program.
+
 ## Environment variables to change the monitoring utility's behavior
 
 The following environment variables can adjst the monitoring program's behavior according to the user's need:
