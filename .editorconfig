@@ -64,6 +64,3 @@ indent_size = 2
 [/LICENSES/*]
 indent_size = unset
 indent_style = unset
-
-[/.reuse/dep5]
-indent_size = 1
