@@ -1,6 +1,6 @@
 # Taichung Hospital consultation room called patient number monitoring
 
-Fetch and present the current called patient number of the specified [Taichung Hospital](https://www.taic.mohw.gov.tw/) consultation room for the convenience to handle the timing for the patient to wait at the spot.
+Fetch and present the current called patient number of the specified [Taichung Hospital](https://www.taic.mohw.gov.tw/) consultation room for the convenience of handling the timing for the patient to wait at the spot.
 
 ![Desktop notification screenshot example](doc-assets/main-view-en.png "Desktop notification screenshot example")
 
