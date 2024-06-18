@@ -39,7 +39,7 @@ This application requires the following software to be available in order to wor
 
 ## Environment variables to change the monitoring utility's behavior
 
-The following environment variables can adjst the monitoring program's behavior according to the user's need:
+The following environment variables can adjust the monitoring program's behavior according to the user's need:
 
 ### CHECK_INTERVAL_BASE
 
