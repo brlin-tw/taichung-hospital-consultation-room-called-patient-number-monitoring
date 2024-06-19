@@ -68,7 +68,7 @@ The timeout time of the HTTP request used for monitoring(unit: seconds).
 
 Corresponding to the `--max-time` command-line option of the curl software.
 
-Defualt value: `30`
+Default value: `30`
 
 ## References
 
